@@ -1,2 +1,3 @@
 # developers-oct-2015
-* **Trent Reeder
+* **Name:  Trent Reeder
+* **Age: 39
